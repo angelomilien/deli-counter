@@ -27,7 +27,6 @@ def line(array)
     else
         "An Error have ocurred"    
     end
-
 end
 
 
@@ -51,5 +50,4 @@ def now_serving(array)
     puts "Currently serving #{person_being_served}."
 
    end
-
 end
